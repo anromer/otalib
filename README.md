@@ -1,2 +1,2 @@
 # otalib
-provide ROM updater
+provide TCL_P620M ROM updater
